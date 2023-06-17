@@ -1,0 +1,1 @@
+export { VuesaxLinearFilter } from "./VuesaxLinearFilter";

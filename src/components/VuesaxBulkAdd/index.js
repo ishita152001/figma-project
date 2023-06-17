@@ -1,0 +1,1 @@
+export { VuesaxBulkAdd } from "./VuesaxBulkAdd";

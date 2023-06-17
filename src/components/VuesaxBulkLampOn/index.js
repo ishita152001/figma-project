@@ -1,0 +1,1 @@
+export { VuesaxBulkLampOn } from "./VuesaxBulkLampOn";

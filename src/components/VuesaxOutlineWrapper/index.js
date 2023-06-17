@@ -1,0 +1,1 @@
+export { VuesaxOutlineWrapper } from "./VuesaxOutlineWrapper";

@@ -1,0 +1,1 @@
+export { VuesaxLinearWrapper } from "./VuesaxLinearWrapper";

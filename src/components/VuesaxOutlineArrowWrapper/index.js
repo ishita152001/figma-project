@@ -1,0 +1,1 @@
+export { VuesaxOutlineArrowWrapper } from "./VuesaxOutlineArrowWrapper";

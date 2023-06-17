@@ -1,0 +1,1 @@
+export { VuesaxOutline } from "./VuesaxOutline";
